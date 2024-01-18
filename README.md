@@ -1,2 +1,2 @@
 # CODSOFT
-CodSoft Internship Projects Repo.
+CodSoft Internship Projects Repository.
